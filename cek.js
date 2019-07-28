@@ -122,10 +122,10 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
-      "https://www.materiid.site/2019/07/faceapp-pro-full-version-apk-mod.html",
-      "https://www.materiid.site/2019/07/printershare-premium-key-mod-unlock-apk.html",
-      "https://www.materiid.site/2019/07/pub-gfx-tool-no-ban-no-lag-0168-apk.html",
-      "https://www.materiid.site/2019/07/printershare-premium-key-mod-unlock-apk.html",
+      "http://www.materiid.site/2019/07/faceapp-pro-full-version-apk-mod.html",
+      "http://www.materiid.site/2019/07/printershare-premium-key-mod-unlock-apk.html",
+      "http://www.materiid.site/2019/07/pub-gfx-tool-no-ban-no-lag-0168-apk.html",
+      "http://www.materiid.site/2019/07/printershare-premium-key-mod-unlock-apk.html",
      
     ];
     /* Jika ingin menambah postingan, copas saja */
